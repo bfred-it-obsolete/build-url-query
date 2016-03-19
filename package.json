@@ -1,0 +1,7 @@
+{
+  "name": "build-url-query",
+  "version": "1.0.0",
+  "description": "Build a query string from key-value pairs",
+  "author": "Federico Brigante <npm@bfred.it> (https://twitter.com/bfred_it)",
+  "license": "MIT"
+}
